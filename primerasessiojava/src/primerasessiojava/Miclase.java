@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Miclase {
 	static final float iva = 0.21f;
+	public int numero=5;
 
 	public static void main(String[] args) {
 		System.out.println("CALCULADORA");
