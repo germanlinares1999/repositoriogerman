@@ -4,12 +4,9 @@ import java.util.Scanner;
 
 public class Miclase {
 	static final float iva = 0.21f;
-	public int numero=5;
-	private int numero2=10;
-	public int numero3=12;
 
 	public static void main(String[] args) {
-		System.out.println("CALCULADORAAAAAAAAAAAAAAAAAAAA");
+		System.out.println("CALCULADORA");
 		System.out.println("Sumar");
 		System.out.println("Restar");
 		System.out.println("Multiplicar");
