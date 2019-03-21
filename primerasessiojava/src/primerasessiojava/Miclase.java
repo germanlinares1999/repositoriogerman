@@ -9,7 +9,7 @@ public class Miclase {
 	public int numero3=12;
 
 	public static void main(String[] args) {
-		System.out.println("CALCULADORA");
+		System.out.println("CALCULADORAAAAAAAAAAAAAAAAAAAA");
 		System.out.println("Sumar");
 		System.out.println("Restar");
 		System.out.println("Multiplicar");
